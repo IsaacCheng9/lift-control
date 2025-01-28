@@ -1,4 +1,4 @@
-# Lift Control Simulation
+# Lift Control Simulator
 
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
@@ -10,8 +10,8 @@ This algorithm achieves up to 82.5% reduction in distance travelled compared to
 the naive algorithm benchmark, outperforming the 25% reduction claimed by the
 destination dispatch technique.
 
-For more information about this, see the design
-document at [docs/Lift Control - Design Document.pdf](<docs/Lift Control - Design Document.pdf>).
+For more information about this, see the design document at
+[docs/Lift Control - Design Document.pdf](<docs/Lift Control - Design Document.pdf>).
 It contains an explanation of the algorithm and performance analysis.
 
 ## Visuals
